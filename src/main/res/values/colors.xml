@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_light">#D1C4E9</color> <!-- Lila pastel -->
+    <color name="purple">#7E57C2</color>       <!-- Púrpura vibrante -->
+    <color name="purple_dark">#512DA8</color>  <!-- Púrpura oscuro intenso -->
+    <color name="teal_light">#80CBC4</color>   <!-- Verde menta -->
+    <color name="teal_dark">#00796B</color>    <!-- Verde esmeralda -->
+    <color name="black">#263238</color>        <!-- Negro humo -->
+    <color name="white">#FAFAFA</color>        <!-- Blanco hielo -->
+    <color name="red">#E53935</color>          <!-- Rojo vibrante -->
+    <color name="yellow">#FFEB3B</color>       <!-- Amarillo soleado -->
+    <color name="blue_accent">#448AFF</color>  <!-- Azul eléctrico -->
+    <color name="gray">#808080</color>
+    <color name="blue">#0028FF</color>
+    <color name="verde">#4CAF50</color> <!-- Color para días cumplidos -->
+    <color name="rojo">#F44336</color>  <!-- Color para días fallidos -->
+    <color name="holo_blue_light">#33B5E5</color>   <!-- Azul holo claro típico -->
+    <color name="holo_orange_light">#FFA726</color> <!-- Naranja holo claro típico -->
+
+
+</resources>
